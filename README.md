@@ -147,17 +147,36 @@ This project is designed to explore various methods for performing sentiment ana
 
 #### Sentiment Distribution
 
+![Sentiment Distribution](https://github.com/user-attachments/assets/5633bec2-9f1d-43f5-859d-ffb8d1491ead)
+
 #### Word Count Analysis
+
+![Word Count Analysis 2](https://github.com/user-attachments/assets/8a75f629-f6d8-4d13-99b8-facad0b287de)
+![Word Count Analysis 1](https://github.com/user-attachments/assets/feac79fa-d44c-4f77-bb3e-83b00e72b656)
 
 #### Word Cloud
 
+![Word Cloud Positive](https://github.com/user-attachments/assets/b9b303d1-8a4b-4b1b-8f8d-354d062c6537)
+![Word Cloud Neutral](https://github.com/user-attachments/assets/2623428d-eaa7-4d91-b423-b45a2eb13083)
+![Word Cloud Negative](https://github.com/user-attachments/assets/71eb6ede-f008-4f9c-80ec-3c2b4220740b)
+
 #### Unique Word Count Analysis
+
+![Unique Word Count Analysis](https://github.com/user-attachments/assets/a35999e3-e429-4108-aea5-7623ca09d4c1)
 
 #### Sentiment Proportion by Rating
 
+![Sentiment Proportion by Rating](https://github.com/user-attachments/assets/8192a1f3-aa2b-4baf-a3fe-1960d8304884)
+
 #### Sentiment Over Time
 
+![Sentiment Over Time](https://github.com/user-attachments/assets/0d6a84b0-2fe6-4107-9bbd-4774d89ecfca)
+
 #### Top Frequent Words
+
+![Top Frequent Words Positive](https://github.com/user-attachments/assets/cfc45ba8-23bf-4a1d-9ecd-43a9ac009d98)
+![Top Frequent Words Neutral](https://github.com/user-attachments/assets/8add7505-b04b-4468-8a1a-b1f399fc5b19)
+![Top Frequent Words Negative](https://github.com/user-attachments/assets/57519a18-1e28-43a6-b1fa-a6b167cf0de2)
 
 ### Results
 
