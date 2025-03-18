@@ -73,19 +73,18 @@ This project is designed to explore various methods for performing sentiment ana
 │   │   ├── best_tfidf_rf_model.pkl
 │   │   ├── fasttext_rf_optuna_study.pkl
 │   │   └── tfidf_rf_optuna_study.pkl
-│   └── svm
-│       ├── best_fasttext_svm_model.pkl
-│       ├── best_tfidf_svm_model.pkl
-│       ├── fasttext_svm_optuna_study.pkl
-│       └── tfidf_svm_optuna_study.pkl
+│   ├── svm
+│   │   ├── best_fasttext_svm_model.pkl
+│   │   ├── best_tfidf_svm_model.pkl
+│   │   ├── fasttext_svm_optuna_study.pkl
+│   │   └── tfidf_svm_optuna_study.pkl
+│   └── tokenizer
+│       └── tokenizer.pkl
 ├── notebooks
-│   └── sentiment_analysis.ipynb
+│   ├── sentiment_analysis.ipynb
+│   └── sentiment_inference.ipynb
 ├── requirements.txt
 ├── results
-│   ├── CNN_training_history.png
-│   ├── GRU_training_history.png
-│   ├── LSTM_training_history.png
-│   └── comparison_of_training_and_testing_accuracy.png
 ├── scraper
 │   └── playstore_scraper.ipynb
 └── stoplist
