@@ -11,6 +11,15 @@ This repository contains a comprehensive project for sentiment analysis on Mobil
   - [Installation](#installation)
   - [Usage](#usage)
   - [Results and Visualizations](#results-and-visualizations)
+    - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+      - [Sentiment Distribution](#sentiment-distribution)
+      - [Word Count Analysis](#word-count-analysis)
+      - [Word Cloud](#word-cloud)
+      - [Unique Word Count Analysis](#unique-word-count-analysis)
+      - [Sentiment Proportion by Rating](#sentiment-proportion-by-rating)
+      - [Sentiment Over Time](#sentiment-over-time)
+      - [Top Frequent Words](#top-frequent-words)
+    - [Results](#results)
   - [License](#license)
 
 ## Overview
@@ -133,6 +142,24 @@ This project is designed to explore various methods for performing sentiment ana
    - The project also includes code to generate a grouped bar chart comparing training and testing accuracies using Plotly Express.
 
 ## Results and Visualizations
+
+### Exploratory Data Analysis (EDA)
+
+#### Sentiment Distribution
+
+#### Word Count Analysis
+
+#### Word Cloud
+
+#### Unique Word Count Analysis
+
+#### Sentiment Proportion by Rating
+
+#### Sentiment Over Time
+
+#### Top Frequent Words
+
+### Results
 
 ![comparison_of_training_and_testing_accuracy](https://github.com/user-attachments/assets/374ea63e-203d-4bf8-90e2-17afa5f17015)
 
